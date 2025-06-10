@@ -3,6 +3,8 @@ PowershellでEXCELファイルを出力するサンプル
 ## 概要
 [RubyでEXCELファイルを出力するサンプル](https://github.com/gearsns/RubyFastExcel)でruby版を作ったので同じようにPowershell版も実装してみた
 
+※V2:処理速度の改善。Powershellだけで実行するとあまりにも遅いので一部C#に変更
+
 ## 使い方
 
 import
